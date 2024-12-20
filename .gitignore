@@ -1,0 +1,15 @@
+ Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv
+venv/
+env/
+envs/
+
+# Compiled output
+dist/
+tmp/
+out-tsc/
+bazel-out/
